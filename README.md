@@ -12,9 +12,9 @@ PosgreSQL
 
 ## Features
 
-Custom error handling exceptions 
-Captures logs for debugging
-Data Access Object (DAO) design pattern
-Java Database Connectivity (JDBC) to RDS
-Verifies username and password
+Custom error handling exceptions  
+Captures logs for debugging  
+Data Access Object (DAO) design pattern  
+Java Database Connectivity (JDBC) to RDS  
+Verifies username and password  
 Encapsulizes fields
