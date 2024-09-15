@@ -31,6 +31,85 @@
 
 [INFO ] 2020-11-17 18:14:09.874 [main] Logging - employee, ID = 1 has withdrew $10.0into account, ID = 4. The new balance is $0.0
 [INFO ] 2020-11-17 18:26:50.120 [main] Logging - employee, ID = 1 has deposited $10.0into account, ID = 4. The new balance is $10.0
+[INFO ] 2020-11-17 18:27:10.561 [main] Logging - employee, ID = 1 has withdrew $10.0into account, ID = 4. The new balance is $0.0
+[INFO ] 2020-11-17 18:28:08.740 [main] Logging - employee, ID = 1 has withdrew $10.0into account, ID = 3. The new balance is $0.0
+[INFO ] 2020-11-17 21:44:21.077 [main] Logging - A new CUSTOMER, username = aris1, has been created.
+
+[INFO ] 2020-11-17 22:06:50.955 [main] Logging - CUSTOMER, username = aris1, has updated last name to carroll
+
+[INFO ] 2020-11-17 22:07:18.363 [main] Logging - CUSTOMER, username = aris1, has updated stree address to 1234 willow lane
+
+[INFO ] 2020-11-17 22:07:43.954 [main] Logging - CUSTOMER, username = aris1, password has been changed to aris1
+
+[INFO ] 2020-11-17 22:09:23.397 [main] Logging - CUSTOMER, username = aris1, has updated city to indianapolis
+
+[INFO ] 2020-11-17 22:09:38.282 [main] Logging - CUSTOMER, username = aris1, has updated state to in
+
+[INFO ] 2020-11-17 22:10:07.170 [main] Logging - CUSTOMER, username = aris1, password has been changed to aris1
+
+[INFO ] 2020-11-17 22:12:27.846 [main] Logging - CUSTOMER, username = aris1, password has been changed to aris1
+
+[INFO ] 2020-11-17 22:13:24.196 [main] Logging - Customer, username = aris1, has created a new SAVINGS account
+[INFO ] 2020-11-17 22:24:49.155 [main] Logging - CUSTOMER, ID = 3 has deposited $15.0into account, ID = 5. The new balance is $15.0
+[INFO ] 2020-11-17 22:35:57.207 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 01:16:38.327 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 01:18:15.811 [main] Logging - Customer, username = aris1, account, ID = 7, has been cancelled
+[INFO ] 2020-11-18 02:11:32.660 [main] Logging - Customer, username = aris1, account, ID = 6, has been cancelled
+[INFO ] 2020-11-18 02:17:13.380 [main] Logging - CUSTOMER, ID = 3 has deposited $10.0into account, ID = 5. The new balance is $25.0
+[INFO ] 2020-11-18 02:28:01.551 [main] Logging - CUSTOMER, ID = 3 has deposited $10.0into account, ID = 5. The new balance is $35.0
+[INFO ] 2020-11-18 02:33:51.102 [main] Logging - employee, ID = 1, has withdrew $35.0into account, ID = 5. The new balance is $0.0
+[INFO ] 2020-11-18 03:37:13.412 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
+[INFO ] 2020-11-18 03:38:13.644 [main] Logging - CUSTOMER, username = aris1, has updated zipcode to 40000
+[INFO ] 2020-11-18 03:38:42.386 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 03:39:07.393 [main] Logging - CUSTOMER, ID = 4, has deposited $10.0into account, ID = 8. The new balance is $10.0
+[INFO ] 2020-11-18 03:39:15.723 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 03:41:36.068 [main] Logging - employee, ID = 1, has withdrew $10.0into account, ID = 8. The new balance is $0.0
+[INFO ] 2020-11-18 04:03:58.290 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 04:05:24.616 [main] Logging - An employee, username = employee1, has logged out.
+[INFO ] 2020-11-18 04:06:01.831 [main] Logging - A CUSTOMER, username = aris1, has logged in.
+[INFO ] 2020-11-18 04:06:17.245 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 04:06:36.818 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 04:07:16.556 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 04:07:38.642 [main] Logging - CUSTOMER, username = aris1, profile has been deleted
+[INFO ] 2020-11-18 04:09:55.218 [main] Logging - An employee, username = employee1, has logged out.
+[INFO ] 2020-11-18 04:11:25.535 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
+[INFO ] 2020-11-18 04:11:49.972 [main] Logging - A CUSTOMER, username = aris1, has logged in.
+[INFO ] 2020-11-18 04:12:14.411 [main] Logging - CUSTOMER, username = aris1, has updated city to Indy
+[INFO ] 2020-11-18 04:12:39.187 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 04:13:08.302 [main] Logging - CUSTOMER, ID = 5, has deposited $10.0into account, ID = 10. The new balance is $10.0
+[INFO ] 2020-11-18 04:13:20.005 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 04:13:57.463 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 04:15:10.114 [main] Logging - employee, ID = 1, has withdrew $10.0into account, ID = 10. The new balance is $0.0
+[INFO ] 2020-11-18 04:15:46.925 [main] Logging - CUSTOMER, username = aris1, profile has been deleted
+[INFO ] 2020-11-18 04:15:59.655 [main] Logging - An employee, username = employee1, has logged out.
+[INFO ] 2020-11-18 04:18:11.758 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
+[INFO ] 2020-11-18 04:18:33.291 [main] Logging - A CUSTOMER, username = aris1, has logged in.
+[INFO ] 2020-11-18 04:18:53.983 [main] Logging - CUSTOMER, username = aris1, has updated city to Indy
+[INFO ] 2020-11-18 04:19:15.399 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 04:19:37.240 [main] Logging - CUSTOMER, ID = 6, has deposited $10.0into account, ID = 11. The new balance is $10.0
+[INFO ] 2020-11-18 04:19:43.732 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 04:20:26.009 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 04:21:20.247 [main] Logging - employee, ID = 1, has withdrew $10.0into account, ID = 11. The new balance is $0.0
+[INFO ] 2020-11-18 04:22:00.769 [main] Logging - CUSTOMER, username = aris1, profile has been deleted
+[INFO ] 2020-11-18 04:22:12.704 [main] Logging - An employee, username = employee1, has logged out.
+[INFO ] 2020-11-18 04:24:26.376 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
+[INFO ] 2020-11-18 04:24:50.518 [main] Logging - A CUSTOMER, username = aris1, has logged in.
+[INFO ] 2020-11-18 04:25:11.849 [main] Logging - CUSTOMER, username = aris1, has updated city to Indianapolis
+[INFO ] 2020-11-18 04:25:30.695 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 04:25:53.500 [main] Logging - CUSTOMER, ID = 7, has deposited $10.0into account, ID = 12. The new balance is $10.0
+[INFO ] 2020-11-18 04:26:04.777 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 04:26:38.012 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 04:27:30.312 [main] Logging - employee, ID = 1, has withdrew $10.0into account, ID = 12. The new balance is $0.0
+[INFO ] 2020-11-18 04:28:02.856 [main] Logging - CUSTOMER, username = aris1, profile has been deleted
+[INFO ] 2020-11-18 04:28:12.722 [main] Logging - An employee, username = employee1, has logged out.
+[INFO ] 2020-11-18 04:30:29.850 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
+[INFO ] 2020-11-18 04:30:49.552 [main] Logging - A CUSTOMER, username = aris1, has logged in.
+[INFO ] 2020-11-18 04:31:15.628 [main] Logging - CUSTOMER, username = aris1, has updated stree address to 1234 main street
+[INFO ] 2020-11-18 04:31:31.358 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 04:31:54.596 [main] Logging - CUSTOMER, ID = 8, has deposited $10.0into account, ID = 13. The new balance is $10.0
+[INFO ] 2020-11-18 04:32:03.847 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 04:32:32.263 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 04:33:30.583 [main] Logging - employee, ID = 1, has withdrew $10.0into account, ID = 13. The new balance is $0.0
 [INFO ] 2020-11-18 04:34:08.683 [main] Logging - CUSTOMER, username = aris1, profile has been deleted
 [INFO ] 2020-11-18 04:34:16.600 [main] Logging - An employee, username = employee1, has logged out.
 [INFO ] 2020-11-18 05:06:52.957 [main] Logging - Customer, username = employee1, has created a new savings account
@@ -51,6 +130,43 @@
 [INFO ] 2020-11-18 05:21:55.244 [main] Logging - null, ID = 0, has withdrew $10.0 into account, ID = 0. The new balance is $9990.0
 [INFO ] 2020-11-18 05:25:03.241 [main] Logging - Customer, username = employee1, has created a new savings account
 [INFO ] 2020-11-18 05:25:03.249 [main] Logging - Customer, username = employee1, has created a new checking account
+[INFO ] 2020-11-18 05:25:08.716 [main] Logging - null, Id 0, username has been changed to user
+[INFO ] 2020-11-18 05:25:09.728 [main] Logging - null, ID = 0, has deposited $20.0 into account, ID = 0. The new balance is $20.0
+[INFO ] 2020-11-18 05:25:10.724 [main] Logging - null, ID = 0, has withdrew $10.0 into account, ID = 0. The new balance is $90.0
+[INFO ] 2020-11-18 05:27:35.129 [main] Logging - Customer, username = employee1, has created a new savings account
+[INFO ] 2020-11-18 05:27:35.137 [main] Logging - Customer, username = employee1, has created a new checking account
+[INFO ] 2020-11-18 05:27:40.435 [main] Logging - null, Id 0, username has been changed to user
+[INFO ] 2020-11-18 05:27:41.459 [main] Logging - null, ID = 0, has deposited $20.0 into account, ID = 0. The new balance is $20.0
+[INFO ] 2020-11-18 05:27:42.431 [main] Logging - null, ID = 0, has withdrew $10.0 into account, ID = 0. The new balance is $90.0
+[INFO ] 2020-11-18 05:28:16.442 [main] Logging - Customer, username = employee1, has created a new savings account
+[INFO ] 2020-11-18 05:28:22.247 [main] Logging - null, Id 1, username has been changed to employee1
+[INFO ] 2020-11-18 05:31:07.172 [main] Logging - Customer, username = employee1, has created a new savings account
+[INFO ] 2020-11-18 05:31:12.357 [main] Logging - null, Id 1, username has been changed to employee1
+[INFO ] 2020-11-18 05:32:35.065 [main] Logging - Customer, username = employee1, has created a new savings account
+[INFO ] 2020-11-18 05:32:40.684 [main] Logging - null, Id 1, username has been changed to employee1
+[INFO ] 2020-11-18 05:37:32.870 [main] Logging - Customer, username = employee1, has created a new savings account
+[INFO ] 2020-11-18 05:37:38.179 [main] Logging - null, Id 1, username has been changed to employee1
+[INFO ] 2020-11-18 05:38:12.436 [main] Logging - Customer, username = employee1, has created a new savings account
+[INFO ] 2020-11-18 05:38:18.110 [main] Logging - null, Id 1, username has been changed to employee1
+[INFO ] 2020-11-18 09:36:19.310 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
+[INFO ] 2020-11-18 09:36:42.977 [main] Logging - A CUSTOMER, username = aris1, has logged in.
+[INFO ] 2020-11-18 09:37:21.040 [main] Logging - CUSTOMER, username = aris1, has updated stree address to 1234 main street
+[INFO ] 2020-11-18 09:37:52.581 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 09:38:22.346 [main] Logging - CUSTOMER, ID = 9, has deposited $10.0 into account, ID = 14. The new balance is $10.0
+[INFO ] 2020-11-18 09:38:33.352 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 09:39:13.262 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 09:41:01.980 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 09:41:38.519 [main] Logging - employee, ID = 1, has withdrew $10.0 into account, ID = 14. The new balance is $0.0
+[INFO ] 2020-11-18 09:42:05.752 [main] Logging - CUSTOMER, username = aris1, profile has been deleted
+[INFO ] 2020-11-18 09:42:11.481 [main] Logging - An employee, username = employee1, has logged out.
+[INFO ] 2020-11-18 09:46:17.317 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
+[INFO ] 2020-11-18 09:46:31.367 [main] Logging - A CUSTOMER, username = aris1, has logged in.
+[INFO ] 2020-11-18 09:46:55.230 [main] Logging - CUSTOMER, username = aris1, has updated city to indianapolis
+[INFO ] 2020-11-18 09:47:16.907 [main] Logging - Customer, username = aris1, has created a new CHECKING account
+[INFO ] 2020-11-18 09:47:40.217 [main] Logging - CUSTOMER, ID = 10, has deposited $10.0 into account, ID = 15. The new balance is $10.0
+[INFO ] 2020-11-18 09:47:50.666 [main] Logging - An CUSTOMER, username = aris1, has logged out.
+[INFO ] 2020-11-18 09:48:23.525 [main] Logging - An employee, username = employee1, has logged in.
+[INFO ] 2020-11-18 09:49:15.261 [main] Logging - employee, ID = 1, has withdrew $10.0 into account, ID = 15. The new balance is $0.0
 [INFO ] 2020-11-18 09:49:51.047 [main] Logging - CUSTOMER, username = aris1, profile has been deleted
 [INFO ] 2020-11-18 09:50:09.738 [main] Logging - An employee, username = employee1, has logged out.
 [INFO ] 2020-11-18 12:05:02.661 [main] Logging - A new CUSTOMER, username = aris1, profile has been created.
